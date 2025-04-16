@@ -4,5 +4,5 @@ The tanning of animal hides and skins produces leather, a sustainable and natura
 
 
 
-DataSet- https://www.mvtec.com/company/research/datasets/mvtec-ad
-Leather
+Leather DataSet- https://www.mvtec.com/company/research/datasets/mvtec-ad
+
